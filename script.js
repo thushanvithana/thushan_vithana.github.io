@@ -76,8 +76,8 @@ window.addEventListener("scroll", function () {
 
 // auto type section
 let typed = new Typed(".auto-typed", {
-  strings: ["Thushan Vithana,"],
-  typeSpeed: 220,
+  strings: ["Thushan,"],
+  typeSpeed: 120,
   backSpeed: 220,
   loop: true,
 });
